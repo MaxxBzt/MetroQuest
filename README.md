@@ -11,11 +11,21 @@ This project is developed by IT-16 team:
 ## Project Description
 Metro Efrei Dodo is a Python application that helps users find the shortest path in the Paris metro system. The application provides two versions of data to choose from, each with its own unique features and capabilities.
 
+<img src="https://i.imgur.com/oq8kcg2.png" alt="Menu Metro Efrei Dodo" width="350"/>
+
+
 ### Version 1
 The first version is the most basic one, providing a metro map and the ability to calculate the shortest path between two stations. The graph in this version is not directed. This version is efficient and fast but lacks updates or new data.
 
+<img src="https://imgur.com/8eGcsFF.png" alt="Vers1 Metro Efrei Dodo" width="350"/>
+<img src="https://imgur.com/T4DoD84.png" alt="Vers1 Metro Efrei Dodo" width="350"/>
+
+
+
 ### Version 2
 The second version includes IDFM 2024 data, the graph is directed and contains more information. This version is more complex and less efficient but includes more data and is more accurate.
+
+<img src="https://imgur.com/6YuHFDl.png" alt="Vers2 Metro Efrei Dodo" width="350"/>
 
 ## Installation and Usage
 To use the application, follow these steps:
